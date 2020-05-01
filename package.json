@@ -11,5 +11,8 @@
     "url": "git+https://github.com/evandro86/projeto-nodejs-rest"
   },
   "author": "Evandro Rodrigues de Andrade",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
