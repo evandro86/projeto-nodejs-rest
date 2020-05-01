@@ -1,0 +1,25 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "Projeto do curso de node do Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evandro86/projeto-nodejs-rest.git"
+  },
+  "keywords": [
+    "Evandro",
+    "Rodrigues",
+    "de",
+    "Andrade"
+  ],
+  "author": "Evandro Rodrigues de Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evandro86/projeto-nodejs-rest/issues"
+  },
+  "homepage": "https://github.com/evandro86/projeto-nodejs-rest#readme"
+}
